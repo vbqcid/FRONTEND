@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+}
+
+.destacado{
+    background-color: gray;
+}
+.titulo{
+    background-color: gray;
+    
+}
+.datos{
+    background-color: gray;
+}
+.experiencia{
+    background-color: gray;
+}
+.formacion{
+    background-color: gray;
+}
+.imagen{
+    text-align: center;
+}

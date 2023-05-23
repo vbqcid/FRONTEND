@@ -1,0 +1,18 @@
+/* selector {
+    propiedad: valor;
+} */
+/* Selector de etiqueta */
+body{
+    background-color: aqua;
+}
+
+/* Selector de clase */
+.destacado{
+    font-size: 70px;
+    color: white;
+}
+
+/* Selector de id */
+#primera{
+    background-color: blueviolet;
+}
