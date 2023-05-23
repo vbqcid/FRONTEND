@@ -21,3 +21,13 @@ body{
 .imagen{
     text-align: center;
 }
+.piedepagina{
+        
+    color: white;
+    background-color: #005677;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;     
+}
