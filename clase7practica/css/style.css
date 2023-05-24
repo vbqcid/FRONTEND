@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color: wheat;
 }
 
 .destacado{
@@ -7,6 +7,7 @@ body{
 }
 .titulo{
     background-color: gray;
+    background-size: contain;
     
 }
 .datos{
@@ -36,4 +37,7 @@ body{
     font-size: large;
     background-color: gray;
     color: white    ;
+}
+.yo{
+    font-size: 100px:
 }
