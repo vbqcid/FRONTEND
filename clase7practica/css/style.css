@@ -31,3 +31,9 @@ body{
     display: flex;
     font-family: 'Times New Roman', Times, serif;     
 }
+#sobremi{
+    text-align: center;
+    font-size: large;
+    background-color: gray;
+    color: white    ;
+}
