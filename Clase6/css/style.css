@@ -1,0 +1,30 @@
+.parrafo1 {
+    display: flex;            
+    background-color: rgba(0, 0, 0, 0.87);
+    
+}
+.parrafo2 {
+    background-color: rgba(0, 0, 0, 0.87);
+    text-align: end;
+}
+.segundo {
+    background-color: yellow;
+    text-align: end;
+}
+.cosas {
+    text-align: end;
+}
+.logo {
+    text-align: start;
+}
+.huella {
+    text-align: center;
+}
+.secciones {
+    text-align: center;
+}
+#fondo{
+    height: 800px;
+    background-image: url(../img/platocomida.jfif);
+    background-size: cover;
+}
