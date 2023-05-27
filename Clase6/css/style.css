@@ -8,7 +8,7 @@
     text-align: end;
 }
 .segundo {
-    background-color: yellow;
+    background-color:#F0A83E;
     text-align: end;
 }
 .cosas {
@@ -22,9 +22,28 @@
 }
 .secciones {
     text-align: center;
+    color: #3C2313;
 }
 #fondo{
     height: 800px;
     background-image: url(../img/platocomida.jfif);
     background-size: cover;
+    color: #3C2313;
+}
+#hola{
+    height: 54px;
+width: 365px;
+left: 648px;
+top: 237px;
+border-radius: 5px;
+background-color: white;
+border-radius: 5px;
+text-align: end;
+}
+body{
+    background-color: #E5E5E5;
+}
+ul{
+    list-style: none;
+    text-overflow: initial;
 }
