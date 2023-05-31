@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    font-family: Arial;
+}
+
+.arriba1{
+    background-color: #1CD1B0;
+    height: 38px;
+    padding: 8px;
+}
+.arriba2{
+    background-color: #00669F;
+    height: 101px;
+    padding: 8px;
+    
+}
+#icon-heart {
+    position: absolute;
+    color: red;
+    margin-top: -90px;
+    margin-left: -85px;
+    font-size: 24px;
+}
+
+.caja{
+    display: inline-block;
+    position: relative;
+    margin: 100px 30px 100px 30px;
+    background-color: #F3F3F3;
+
+    width: 300px;
+    height: 450px;
+    text-align: center;
+}
+
+.zonaImagena{
+    background-image: url(../img/fondobatman.png);
+    background-size: cover;
+    height: 100px;
+}
+
+.zonaImagenb{
+    background-image: url(../img/fondoharley.png);
+    background-size: cover;
+    height: 100px;
+}
+
+.miniatura{
+    position: relative;
+    border-radius: 60px;
+    bottom: 20px;
+}
+.zonaTexto{
+    padding: 0px 20px 20px 20px;
+}
+
+.boton{
+    display: inline-block;
+    color: white;
+    padding: 15px;
+    width: 120px;
+    height: 50px;
+    background-color: #00669F;
+}
+
+footer{
+    color: white;
+    background-color: #00669F;
+    height: 51px;
+    padding: 10px;
+}
