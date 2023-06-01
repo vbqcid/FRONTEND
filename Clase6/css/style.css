@@ -35,12 +35,12 @@
     position: relative;
   }
   
-  .banner img {
+  .banner img{
     width: 100%;
   
   }
   
-  .banner div {
+  .banner div{
     position: absolute;
     top: 50%;
     right: 5%;
@@ -48,7 +48,7 @@
     transform: translateY(-50%);
   }
   
-  .banner h1 {
+  .banner h1{
     background: white;
     padding: 0.5em;
     border-radius: 0.25em;
